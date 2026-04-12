@@ -1,0 +1,3 @@
+/home/naser445/projects/ATS_14/build/CMakeFiles/ATS_14.dir
+/home/naser445/projects/ATS_14/build/CMakeFiles/edit_cache.dir
+/home/naser445/projects/ATS_14/build/CMakeFiles/rebuild_cache.dir
