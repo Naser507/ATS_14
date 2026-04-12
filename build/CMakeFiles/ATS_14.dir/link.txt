@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/ATS_14.dir/core/app/main.cpp.o -o ATS_14 
