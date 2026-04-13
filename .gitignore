@@ -5,7 +5,11 @@ cmake-build-*/
 # binaries
 *.o
 *.obj
+*.out
 *.exe
+*.dll
+*.so
+*.a
 ATS_14
 
 # CMake
