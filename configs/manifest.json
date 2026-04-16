@@ -1,0 +1,9 @@
+{
+  "modules": [
+    {
+      "name": "ui_core",
+      "path": "bin/ui_core.so",
+      "type": "ui"
+    }
+  ]
+}
